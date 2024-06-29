@@ -21,13 +21,4 @@ This quiz app is a web-based application that allows users to answer a series of
 - Multiple-choice questions
 - Dynamic scoring and feedback
 - Responsive design for various screen sizes
-- User-friendly interface
-
-
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/omkeshborse/quiz-app.git
+- User-friendly interfce
