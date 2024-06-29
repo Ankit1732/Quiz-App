@@ -23,12 +23,6 @@ This quiz app is a web-based application that allows users to answer a series of
 - Responsive design for various screen sizes
 - User-friendly interface
 
-## Demo
-
-[Link to live demo](https://quiz-app-javascript-omkesh-project.netlify.app/)
-
-You can experience the quiz app by visiting the [live demo](https://quiz-app-javascript-omkesh-project.netlify.app/) hosted on [netlify](https://quiz-app-javascript-omkesh-project.netlify.app/).
-
 
 
 ## Usage
